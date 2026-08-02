@@ -15,7 +15,8 @@
 
 hustle_nation_apparel/
 ├── app.py
-├── requirements.txt
+├── Flask>=3.0,<4.0
+gunicorn
 ├── README.txt
 ├── templates/
 │   └── index.html
